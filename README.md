@@ -12,7 +12,7 @@ I'm also a fan of Marvel movies 😅.
 
 ### About me
 
-- 🔭 I’m currently working as a Frontend Engineer II at [Verizon][company] !
+- 🔭 I’m currently working as a Software Engineer III at [Verizon][company] !
 - 🌱 I’m currently learning everything 🤣
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 - 👯 I’m looking to collaborate with other content creators
