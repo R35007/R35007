@@ -31,7 +31,7 @@ I'm also a fan of Marvel movies 😅.
 
 ### GitHub Stats:
 
-<img alt="R35007's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=R35007&show_icons=true&theme=github_dark " />
+<img alt="R35007's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=R35007&show_icons=true&theme=github_dark" />
 
 ---
 
