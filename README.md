@@ -31,15 +31,15 @@ I'm also a fan of Marvel movies 😅.
 
 ### GitHub Stats:
 
-<img alt="R35007's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=R35007&show_icons=true&theme=github_dark" />
+![My Stats](https://github-readme-stats.vercel.app/api?username=R35007&show_icons=true&theme=github_dark)
 
 ---
 
 ### Connect with me:
 
-[<img align="left" style="border-radius: 50px ;margin-right: 10px; background-color: #ffffff;" alt="R35007 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" style="border-radius: 50px ;margin-right: 10px; background-color: #ffffff;" alt="R35007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" style="border-radius: 50px ;margin-right: 10px; background-color: #ffffff;" alt="R35007 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" style="border-radius: 50px ;margin-right: 10px; background: #ffffff;" alt="R35007 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" style="border-radius: 50px ;margin-right: 10px; background: #ffffff;" alt="R35007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" style="border-radius: 50px ;margin-right: 10px; background: #ffffff;" alt="R35007 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
