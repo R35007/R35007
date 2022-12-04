@@ -37,9 +37,9 @@ I'm also a fan of Marvel movies 😅.
 
 ### Connect with me:
 
-[<img align="left" style="border-radius: 50px ;margin-right: 10px; background: #ffffff;" alt="R35007 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" style="border-radius: 50px ;margin-right: 10px; background: #ffffff;" alt="R35007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" style="border-radius: 50px ;margin-right: 10px; background: #ffffff;" alt="R35007 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" style="border-radius: 50px ;margin-right: 10px; background: #ffffff;" alt="R35007 | Website" width="22px" src="https://user-images.githubusercontent.com/23217228/205498178-e81459a8-21f9-44f9-9ef2-7847fdee9e8a.png" />][website]
+[<img align="left" style="border-radius: 50px ;margin-right: 10px; background: #ffffff;" alt="R35007 | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/23217228/205498177-0c45d2eb-c9f0-4214-a4be-99cfed819025.png" />][linkedin]
+[<img align="left" style="border-radius: 50px ;margin-right: 10px; background: #ffffff;" alt="R35007 | Instagram" width="22px" src="https://user-images.githubusercontent.com/23217228/205498176-864f9ea0-0e29-4ea4-94ba-54f84a595a29.png" />][instagram]
 
 <br/>
 
