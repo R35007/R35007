@@ -2,17 +2,17 @@
 
 ## I'm a Creative Frontend Engineer and a Stack Explorer!!
 
-I enjoy learning languages and frameworks like React, Angular, Vue etc..
+I enjoy learning programming languages and frameworks like React, Angular, NextJS etc..
 I like neat and clean code with a simpler logic.
 I also love Data structure and Algorithms (beginner).
 I'm a pet lover and I have a pet dog named **Scooby** 🐕‍🦺.
-My Hobbies are playing Chess, watching Movies and series and learning somthing new.
+My Hobbies are playing Chess, watching Movies and series and learning something new.
 I like to do things that makes me feel **WOW**.
 I'm also a fan of Marvel movies 😅.
 
 ### About me
 
-- 🔭 I’m currently working as a Software Engineer III at [Verizon][company] !
+- 🔭 I’m currently working at a position Software Engineer III at [Verizon][company] !
 - 🌱 I’m currently learning everything 🤣
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 - 👯 I’m looking to collaborate with other content creators
