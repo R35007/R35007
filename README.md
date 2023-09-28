@@ -1,6 +1,6 @@
 ### Hi there, I'm Sivaraman - aka [Siva][website] 👋
 
-## I'm a Creative Frontend Engineer and a Stack Explorer!!
+## I'm a Creative Sr.Frontend Engineer and a Stack Explorer!!
 
 I enjoy learning programming languages and frameworks like React, Angular, NextJS etc..
 I like neat and clean code with a simpler logic.
@@ -12,7 +12,7 @@ I'm also a fan of Marvel movies 😅.
 
 ### About me
 
-- 🔭 I’m currently working at a position Software Engineer III at [Verizon][company] !
+- 🔭 I’m currently working at a position Sr.Software Engineer at [Ford][company] !
 - 🌱 I’m currently learning everything 🤣
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 - 👯 I’m looking to collaborate with other content creators
@@ -44,5 +44,5 @@ I'm also a fan of Marvel movies 😅.
   <a href="https://www.instagram.com/art_glry/" target="_blank" title="Instagram"><img  style="margin-right: 10px;" alt="Instagram" width="22px" height="22px" src="https://user-images.githubusercontent.com/23217228/205498176-864f9ea0-0e29-4ea4-94ba-54f84a595a29.png" /></a>
 </div>
 
-[company]: https://www.verizon.com/
+[company]: https://www.ford.com/
 [website]: https://r35007.github.io/Siva_Profile/
