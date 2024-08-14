@@ -19,6 +19,10 @@ I'm also a fan of Marvel movies 😅.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play chess
 
+<a href="https://buymeacoffee.com/r35007" target="_blank">
+  <img src="https://r35007.github.io/Siva_Profile/images//buymeacoffee.png" />
+</a>
+
 ### Skills and Experience
 
 - React
