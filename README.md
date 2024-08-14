@@ -1,5 +1,9 @@
 ### Hi there, I'm Sivaraman - aka [Siva][website] 👋
 
+<a href="https://buymeacoffee.com/r35007" target="_blank">
+  <img src="https://r35007.github.io/Siva_Profile/images//buymeacoffee.png" />
+</a>
+
 ## I'm a Creative Sr.Frontend Engineer and a Stack Explorer!!
 
 I enjoy learning programming languages and frameworks like React, Angular, NextJS etc..
@@ -18,10 +22,6 @@ I'm also a fan of Marvel movies 😅.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play chess
-
-<a href="https://buymeacoffee.com/r35007" target="_blank">
-  <img src="https://r35007.github.io/Siva_Profile/images//buymeacoffee.png" />
-</a>
 
 ### Skills and Experience
 
